@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Cloud Concepts and Providers</span>
+  <span class="headline">Cloud Concepts and Providers Lab</span>
 </h1>
 
 ## About
@@ -9,11 +9,17 @@ In this module, learners will gain a solid understanding of essential cloud comp
 
 ## Content
 
+- [Setup](./setup/README.md)
 - [Understanding Cloud Service Models](./understanding-cloud-service-models/README.md)
 - [Exploring Major Cloud Service Providers](./exploring-major-cloud-service-providers/README.md)
 - [Cloud Service Providers and Business Needs](./cloud-service-providers-and-business-needs/README.md)
 - [Cloud Connections](./cloud-connections/README.md)
-- [Final Project](./final-project/README.md)
+- [Cloud Presentation](./cloud-presentation/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 
@@ -27,8 +33,8 @@ Estimated time to complete core lab exercise: **5 hr**
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cloud-concepts-and-providers/canvas-landing-pages/ITB.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cloud-concepts-and-providers/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cloud-concepts-and-providers-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/cloud-concepts-and-providers-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 

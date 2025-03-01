@@ -1,9 +1,9 @@
 <h1>
-  <span class="headline">Cloud Concepts and Providers</span>
+  <span class="headline">Cloud Concepts and Providers Lab</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-tktk Information to help instructors deliver this content should be added here. This file should not be removed, even if there is no content to place here immediately, and the following content should be retained regardless of how much content is in this file.
+Students will learn about cloud computing concepts and how they relate to major cloud service providers. Their research will culminate in a presentation. Ensure you've communicated to students how long they will have to present.
 
 ---
 

@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Cloud Concepts and Providers",
-    "name": "cloud-concepts-and-providers",
+    "friendlyName": "Cloud Concepts and Providers Lab",
+    "name": "cloud-concepts-and-providers-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -19,6 +19,16 @@
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
         {
           "friendlyName": "Understanding Cloud Service Models",
           "dirName": "understanding-cloud-service-models",
@@ -60,8 +70,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Final Project",
-          "dirName": "final-project",
+          "friendlyName": "Cloud Presentation",
+          "dirName": "cloud-presentation",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,6 +109,16 @@
       "logoUrl": "",
       "microlessons": [
         {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
           "friendlyName": "Understanding Cloud Service Models",
           "dirName": "understanding-cloud-service-models",
           "type": "Content",
@@ -139,8 +159,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Final Project",
-          "dirName": "final-project",
+          "friendlyName": "Cloud Presentation",
+          "dirName": "cloud-presentation",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

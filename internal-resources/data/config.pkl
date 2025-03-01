@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Cloud Concepts and Providers"
+  friendlyName = "Cloud Concepts and Providers Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "cloud-concepts-and-providers"
+  name = "cloud-concepts-and-providers-lab"
   type = "Lab"
 }
 
@@ -24,21 +24,23 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
+      mls.setup
       mls.understandingCloudServiceModels
       mls.exploringMajorCloudServiceProviders
       mls.cloudServiceProvidersAndBusinessNeeds
       mls.cloudConnections
-      mls.finalProject
+      mls.cloudPresentation
     }
   }
   new {
     name = "ITB"
     microlessons {
+      mls.setup
       mls.understandingCloudServiceModels
       mls.exploringMajorCloudServiceProviders
       mls.cloudServiceProvidersAndBusinessNeeds
       mls.cloudConnections
-      mls.finalProject
+      mls.cloudPresentation
     }
   }
 }

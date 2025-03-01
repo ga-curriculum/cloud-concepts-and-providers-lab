@@ -2,6 +2,13 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
 understandingCloudServiceModels = new Template.Microlesson {
   friendlyName = "Understanding Cloud Service Models"
   dirName = "understanding-cloud-service-models"
@@ -30,9 +37,9 @@ cloudConnections = new Template.Microlesson {
   videoUrl = ""
 }
 
-finalProject = new Template.Microlesson {
-  friendlyName = "Final Project"
-  dirName = "final-project"
+cloudPresentation = new Template.Microlesson {
+  friendlyName = "Cloud Presentation"
+  dirName = "cloud-presentation"
   type = "Content"
   videoUrl = ""
 }

@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Cloud Concepts and Providers</span>
+  <span class="headline">Cloud Concepts and Providers Lab</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

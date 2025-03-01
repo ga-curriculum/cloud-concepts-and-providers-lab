@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Cloud Concepts and Providers</span>
+  <span class="headline">Cloud Concepts and Providers Lab</span>
 </h1>
 
 ## About
@@ -15,3 +15,7 @@ In this module, learners will gain a solid understanding of essential cloud comp
 - [Cloud Service Providers and Business Needs](../cloud-service-providers-and-business-needs/README.md)
 - [Cloud Connections](../cloud-connections/README.md)
 - [Final Project](../final-project/README.md)
+
+## Rubric
+
+- [Rubric](./rubrics/fallback.md)
