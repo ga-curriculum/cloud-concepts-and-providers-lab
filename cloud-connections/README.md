@@ -27,6 +27,6 @@ Complete this exercise in your Google Doc.
 
 Pick a service from one of the cloud providers that interests you.
 
-Draw a simple picture showing how a request goes from a user's computer to that service and back. You can do this in your Google Doc or using a tool like [draw.io](draw.io). Ensure your final diagram is present in your Google Doc in some form.
+Draw a simple picture showing how a request goes from a user's computer to that service and back. You can do this in your Google Doc or using a tool like [draw.io](https://draw.io). Ensure your final diagram is present in your Google Doc in some form.
 
 Use boxes for the user's computer, the internet, the provider's data center, and the service itself. Use arrows to show the path of the request and the response.
