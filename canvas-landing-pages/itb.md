@@ -9,12 +9,13 @@ In this module, learners will gain a solid understanding of essential cloud comp
 
 ## Content
 
+- [Setup](../setup/README.md)
 - [Understanding Cloud Service Models](../understanding-cloud-service-models/README.md)
 - [Exploring Major Cloud Service Providers](../exploring-major-cloud-service-providers/README.md)
 - [Cloud Service Providers and Business Needs](../cloud-service-providers-and-business-needs/README.md)
 - [Cloud Connections](../cloud-connections/README.md)
-- [Final Project](../final-project/README.md)
+- [Cloud Presentation](../cloud-presentation/README.md)
 
 ## Rubric
 
-- [Rubric](./rubrics/itb.md)
+- [Rubric](../rubrics/itb.md)
