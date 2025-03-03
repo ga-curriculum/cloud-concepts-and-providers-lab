@@ -33,7 +33,7 @@ courses {
     }
   }
   new {
-    name = "ITB"
+    name = "itb"
     microlessons {
       mls.setup
       mls.understandingCloudServiceModels
