@@ -17,5 +17,5 @@ The following requirements describe the necessary deliverables for the Cloud Con
 | The slide content supports the verbal presentation instead being a script.                                                                                                                    | 10     |
 | Your presentation is delivered to the class at the assigned date and time.                                                                                                                    | 15     |
 | The presentation is delivered within the time limit provided.                                                                                                                                 | 10     |
-| Visual elements and design in the presentation is professional.                                                                                                                               | 5      |
+| Visual elements and design in the presentation are professional.                                                                                                                              | 5      |
 | **Total possible points**                                                                                                                                                                     | 100    |
