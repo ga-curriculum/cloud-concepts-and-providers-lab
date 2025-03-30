@@ -7,7 +7,7 @@
 
 ## Exercise
 
-Build a presentation that demonstrates your understanding of the cloud concepts and providers you've learned about in this lab. Complete this exercise in your Google Presentation.
+Build a presentation that demonstrates your understanding of the cloud concepts and providers you've learned about in this lab. Complete this exercise in your Google Slides presentation.
 
 At a minimum, your presentation should include:
 
