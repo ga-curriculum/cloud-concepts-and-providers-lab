@@ -3,7 +3,7 @@
   <span class="subhead">Cloud Connections</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will have a basic understanding of how the cloud is connected to physical computers and networks.
+**Learning objective:** By the end of this lesson, students will be able to describe how the cloud is connected to physical computers and networks.
 
 ## How the cloud connects to your computer
 

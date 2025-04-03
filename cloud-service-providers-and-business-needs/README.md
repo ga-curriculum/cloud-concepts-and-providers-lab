@@ -3,7 +3,7 @@
   <span class="subhead">Cloud Service Providers and Business Needs</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to think critically about what businesses might need from a cloud provider.
+**Learning objective:** By the end of this lesson, students will be able to analyze what businesses might need from a cloud provider.
 
 ## How to choose the right provider
 

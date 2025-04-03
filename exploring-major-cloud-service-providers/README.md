@@ -3,7 +3,7 @@
   <span class="subhead">Exploring Major Cloud Service Providers</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be familiar with the core service offerings of AWS, Azure, and GCP.
+**Learning objective:** By the end of this lesson, students will be able to describe the core service offerings of AWS, Azure, and GCP.
 
 ## Top cloud providers
 

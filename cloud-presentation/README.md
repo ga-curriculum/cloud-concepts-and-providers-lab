@@ -3,7 +3,7 @@
   <span class="subhead">Cloud Presentation</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will combine what they've learned about cloud service models, major providers, and your own business needs into a simple presentation.
+**Learning objective:** By the end of this lesson, students will be able to combine what they've learned about cloud service models, major providers, and your own business needs into a simple presentation.
 
 ## Exercise
 
